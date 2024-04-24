@@ -1,20 +1,32 @@
-Hi there, welcome to my profile! I am Md. Fahad Hossion, a computer science student who always tries to learn something interesting. 
+### Hi there :wave:, 
+#Welcome to my profile! I am Md. Fahad Hossion, a computer science student who always tries to learn something interesting. 
 
-## Table of Contents
+### Skills
+## Programming Language
+- Python
+- Java
+- C/C++
+- Bash
+- MySQL
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Web programming Language and Frameworks
+- HTML/CSS
+- Bootstrap
+- JavaScript
+- PHP
+- Next JS
+- Django
 
+## Tools
+- Visualisation
+  - matplotlib
+  - seaborn
 
-5. **Usage**: Explain how to use your project, including code examples if applicable.
+## Operating Systems
+- Windows
+- Linux
 
-```markdown
-## Usage
-
-```javascript
-const yourPackage = require('your-package');
-
-// Example usage
-yourPackage.doSomething();
+## Document Creation
+- Latex
+- MS Office
+- Google Docs
