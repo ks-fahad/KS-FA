@@ -26,14 +26,25 @@ Welcome to my profile! I am Md. Fahad Hossion, a computer science student who al
 
 ## Tools
 - Visualisation
-  *matplotlib*
-  *seaborn*
+  - matplotlib
+  - seaborn
+- Data handling
+  - Numpy
+  - Pandas
+  - OpenCV
+- Machine Learning and Deep Learning
+  - Scikit-learn
+  - Keras
+  - PyTorch
+  - Keras
+  - TensorFlow
+  - NLTK
 
 ## Operating Systems
 - Windows
 - Linux
 
 ## Document Creation
-- Latex
+- LaTex
 - MS Office
 - Google Docs
