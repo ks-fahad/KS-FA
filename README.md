@@ -15,3 +15,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+5. **Usage**: Explain how to use your project, including code examples if applicable.
+
+```markdown
+## Usage
+
+```javascript
+const yourPackage = require('your-package');
+
+// Example usage
+yourPackage.doSomething();
