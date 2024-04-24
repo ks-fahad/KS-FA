@@ -1,0 +1,90 @@
+{
+    "name": "Fahad Hossain",
+    "designation": "student",
+    "company": [
+        "GUB",
+        "https://green.edu.bd/"
+    ],
+    "address": [
+        "Chouddagram, Cumilla, Bangladesh",
+        "Mirpur, Dhaka, Bangladesh"
+    ],
+    "mobile": [
+        "01998",
+        "04984"
+    ],
+    "cv": "https://drive.google.com/file/d/1o5EYP_N2VFDOzfhK0I0nFKu-p1IvdayD/view?usp=sharing",
+    "links": {
+        "facebook": "https://www.facebook.com/KSFahad.ksf/",
+        "github": "https://github.com/ks-fahad",
+        "linkedin": "https://www.linkedin.com/in/ks-fahad",
+        "instagram": "https://www.instagram.com/ksfahad.self/",
+        "youtube": "https://www.youtube.com/@KSFahad",
+        "twitter": "https://twitter.com/KSFahadSellf",
+        "whatsapp": "",
+        "researchgate": "",
+        "googlescholar": "",
+        "profile": ""
+    },
+    "about": {
+        "details": "Hello, welcome to my site! I am Fahad Hossain, a computer science student who always tries to learn something interesting. Here, you will be told some information about me and my life. Firstly, in my life, I always try to be humble about learning new things and I am always hungry for knowledge that will help me achieve success in life.One of my important skills is to always strive for perfection and because of this, I take extra time on certain tasks when necessary.",
+        "skills": [
+            {
+                "name": "JavaScript",
+                "percent": 70
+            },
+            {
+                "name": "PHP",
+                "percent": 70
+            },
+            {
+                "name": "HTML/CSS",
+                "percent": 80
+            },
+            {
+                "name": "JAVA",
+                "percent": 65
+            },
+            {
+                "name": "C/C++",
+                "percent": 70
+            },
+            {
+                "name": "Python",
+                "percent": 75
+            },
+            {
+                "name": "SQL",
+                "percent": 70
+            }
+        ],
+        "interest": {
+            "learning": [
+                "Natural language processing",
+                "Image Recognition",
+                "Data Science"
+            ],
+            "regular": [
+                "Drawing",
+                "Shopping",
+                "Cooking",
+                "Travelling"
+            ]
+        },
+        "images": [
+            {
+                "image": "",
+                "caption": ""
+            },
+            {
+                "image": "",
+                "caption": ""
+            },
+            {
+                "image": "",
+                "caption": ""
+            }
+        ]
+    },
+    "footer": "©2024 Fahad Hossain, Last Update 25 March, 2024"
+}
