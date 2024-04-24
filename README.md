@@ -17,12 +17,12 @@ Welcome to my profile! I am Md. Fahad Hossion, a computer science student who al
 | MySQL               | Expert      | -                                        |
 
 ## Web programming Language and Frameworks
-- HTML/CSS
-- Bootstrap
-- JavaScript
-- PHP
-- Next JS
-- Django
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Used-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow)
+![PHP](https://img.shields.io/badge/PHP-Used-purple)
+![Next.js](https://img.shields.io/badge/Next.js-Used-black)
+![Django](https://img.shields.io/badge/Django-Used-green)
 
 ## Tools
 - Visualisation
