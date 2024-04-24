@@ -1,5 +1,7 @@
-### Hi there :wave:, 
-# Welcome to my profile! I am Md. Fahad Hossion, a computer science student who always tries to learn something interesting. 
+# Hi there :wave:, 
+## Welcome to my profile! I am Md. Fahad Hossion, a computer science student who always tries to learn something interesting. 
+
+# Skills
 
 ## Programming Language
 ![Python](https://img.shields.io/badge/Python-Expert-green)
