@@ -1,7 +1,11 @@
 # Hi, I'm FAHAD! 👋
-### Welcome to my profile! My name is Md. Fahad Hossion, a computer science student who always tries to learn something interesting.
+#### Welcome to my profile! My name is Md. Fahad Hossion, a computer science student who always tries to learn something interesting.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="ks-fahad" /> </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-fahad)
+
+<p align="left"> <a href="https://www.linkedin.com/in/ks-fahad/" target="blank"><img src="https://img.shields.io/twitter/follow/rakibulh181?logo=twitter&style=for-the-badge" alt="ks-fahad" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ks-fahad" alt="ks-fahad" /></a> </p>
 
