@@ -1,4 +1,4 @@
-# Hi, I'm FAHAD! 👋 <img src="https://komarev.com/ghpvc/?username=ks-fahad&label=Profile%20views&color=purple&style=flat" alt="ks-fahad" />
+# Hi, I'm FAHAD! 👋 <img src="https://komarev.com/ghpvc/?username=ks-fahad&label=Profile%20views&color=A020F0&style=flat" alt="ks-fahad" />
 
 ### Welcome to my profile! My name is Md. Fahad Hossion, a computer science student who always tries to learn something interesting.
 
