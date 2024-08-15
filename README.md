@@ -9,18 +9,18 @@
 
 ### Programming Language
 ![Python](https://img.shields.io/badge/Python-Advanced-1877F2?style=for-the-badge&logo=python&logoColor=1877F2)
-![Java](https://img.shields.io/badge/Java-Advanced-0077B5?style=for-the-badge&logo=java&logoColor=0077B5)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-blue)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-orange)
+![Java](https://img.shields.io/badge/Java-Advanced-323330?style=for-the-badge&logo=java&logoColor=323330)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-121011?style=for-the-badge&logo=gnu-bash&logoColor=121011)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-005C84?style=for-the-badge&logo=mysql&logoColor=005C84)
 
 ### Web programming Language and Frameworks
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Used-blue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet)
-![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow)
-![PHP](https://img.shields.io/badge/PHP-Used-purple)
-![Next.js](https://img.shields.io/badge/Next.js-Used-black)
-![Django](https://img.shields.io/badge/Django-Used-green)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Used-blue?style=for-the-badge&logo=java&logoColor=323330)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet?style=for-the-badge&logo=java&logoColor=323330)
+![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow?style=for-the-badge&logo=java&logoColor=323330)
+![PHP](https://img.shields.io/badge/PHP-Used-purple?style=for-the-badge&logo=java&logoColor=323330)
+![Next.js](https://img.shields.io/badge/Next.js-Used-black?style=for-the-badge&logo=java&logoColor=323330)
+![Django](https://img.shields.io/badge/Django-Used-green?style=for-the-badge&logo=java&logoColor=323330)
 
 ### Tools
 - Visualisation
