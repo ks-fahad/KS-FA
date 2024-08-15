@@ -8,19 +8,11 @@
 ## 🛠 Skills
 
 ### Programming Language
-![Python](https://img.shields.io/badge/Python-Advanced-green)
+![Python](https://img.shields.io/badge/Python-Advanced-green-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-orange)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-blue)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-orange)
-
-| Language            | Proficiency | Description                              |
-|---------------------|-------------|------------------------------------------|
-| Python              | Advanced    | -                                        |
-| Java                | Advanced    | -                                        |
-| C/C++               | Intermediate| -                                        |
-| Bash                | Advanced    | -                                        |
-| MySQL               | Expert      | -                                        |
 
 ### Web programming Language and Frameworks
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Used-blue)
@@ -42,7 +34,7 @@
   - Scikit-learn
   - Keras
   - PyTorch
-  - Keras
+  - ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
   - TensorFlow
   - NLTK
 
