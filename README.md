@@ -8,7 +8,7 @@
 ## 🛠 Skills
 
 ### Programming Language
-![Python](https://img.shields.io/badge/Python-Advanced-green?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green-Advanced-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-orange)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-blue)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-blue)
