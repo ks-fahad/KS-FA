@@ -1,7 +1,10 @@
-# Hi there :wave:, 
-Welcome to my profile! I am Md. Fahad Hossion, a computer science student who always tries to learn something interesting. 
+# Hi, I'm FAHAD! 👋
+Welcome to my profile! My name is Md. Fahad Hossion, a computer science student who always tries to learn something interesting.
+[![portfolio](https://raw.githubusercontent.com/ks-fahad/fahad/main/README/portfolio_1.png)](https://ks-fahad.vercel.app/)
 
-## Programming Language
+## 🛠 Skills
+
+### Programming Language
 ![Python](https://img.shields.io/badge/Python-Advanced-green)
 ![Java](https://img.shields.io/badge/Java-Advanced-orange)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-blue)
@@ -16,7 +19,7 @@ Welcome to my profile! I am Md. Fahad Hossion, a computer science student who al
 | Bash                | Advanced    | -                                        |
 | MySQL               | Expert      | -                                        |
 
-## Web programming Language and Frameworks
+### Web programming Language and Frameworks
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Used-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow)
@@ -24,7 +27,7 @@ Welcome to my profile! I am Md. Fahad Hossion, a computer science student who al
 ![Next.js](https://img.shields.io/badge/Next.js-Used-black)
 ![Django](https://img.shields.io/badge/Django-Used-green)
 
-## Tools
+### Tools
 - Visualisation
   - matplotlib
   - seaborn
