@@ -6,9 +6,9 @@
 [![Google_Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]() [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KSFahadSellf) [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ksfahad.self/)    [![Facebook Page](https://img.shields.io/badge/Facebook_page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564227922898) [![YouTube](https://img.shields.io/badge/YouTube-E60023?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KSFahad) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@ksfahad.self)
 
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ks-fahad) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ks-fahad)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ks-fahad) ![](https://github-readme-streak-stats.herokuapp.com/?user=ks-fahad)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks-fahad) ![](https://github-readme-streak-stats.herokuapp.com/?user=ks-fahad)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ks-fahad)
 
 ![](https://github-profile-trophy.vercel.app/?username=ks-fahad)
 
