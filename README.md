@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="ks-fahad" /> </p>
 
-[![Visit Website](https://img.shields.io/badge/Visit%20Website-blue?style=flat-square&logo=globe)](https://ks-fahad.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-fahad)
+[![Visit Website](https://img.shields.io/badge/Website-blue?style=flat-square&logo=globe)](https://ks-fahad.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-fahad)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ks-fahad" alt="ks-fahad" /></a> </p>
