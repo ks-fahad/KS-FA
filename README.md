@@ -7,7 +7,14 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ks-fahad&theme=github)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks-fahad&theme=github)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ks-fahad&theme=github)
+
+![](https://github-profile-trophy.vercel.app/?username=ks-fahad&theme=github)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api??username=ks-fahad&theme=github)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api??username=ks-fahad&theme=github)
+
 
 ## 🛠 Skills
 
