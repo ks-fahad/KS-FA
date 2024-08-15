@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ks-fahad) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ks-fahad)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks-fahad) ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ks-fahad)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ks-fahad) ![](https://github-readme-streak-stats.herokuapp.com/?user=ks-fahad)
 
 ![](https://github-profile-trophy.vercel.app/?username=ks-fahad)
 
