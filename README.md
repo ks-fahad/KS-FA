@@ -34,7 +34,7 @@
   - Scikit-learn
   - Keras
   - PyTorch
-  - ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+  - [Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
   - TensorFlow
   - NLTK
 
