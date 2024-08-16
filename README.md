@@ -11,27 +11,21 @@
 ## 🛠 Skills
 
 ### Programming Language
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,bash,mysql)](https://skillicons.dev)
+[![My Skills in Programming](https://skillicons.dev/icons?i=py,java,c,cpp,bash,mysql)](https://skillicons.dev)
 
 ### Web programming Language and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nextjs,django)](https://skillicons.dev)
+[![My Skills in Web](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nextjs,django)](https://skillicons.dev)
 
 ### Tools and Libraries
 - Visualisation: matplotlib, seaborn
-- Data handling: [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-- Machine Learning and Deep Learning: [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white),[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-  - Scikit-learn
-  - Keras
-  - PyTorch
-  - [Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-  - TensorFlow
-  - NLTK
+- Data handling: ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+- Machine Learning and Deep Learning: ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white), ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## Operating Systems
-- Windows
-- Linux
+[![My Skills in System](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 
 ## Document Creation
+[![My Skills in Documentation](https://skillicons.dev/icons?i=latex,msoffice,googledocs)](https://skillicons.dev)
 - LaTex
 - MS Office
 - Google Docs
