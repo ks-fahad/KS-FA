@@ -11,7 +11,7 @@
 ## 🛠 Skills
 
 ### Programming Language
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,c++,bash,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,bash,mysql)](https://skillicons.dev)
 
 ![Python](https://img.shields.io/badge/Python-Advanced-1877F2?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-yellow?style=for-the-badge&logo=java&logoColor=white)
@@ -20,6 +20,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Web programming Language and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nextjs,django)](https://skillicons.dev)
+
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Used-blue?style=for-the-badge&logo=java&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow?style=for-the-badge&logo=java&logoColor=white)
