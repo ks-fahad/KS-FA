@@ -23,11 +23,20 @@
 [![My Skills in Web](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nextjs,django,react)](https://skillicons.dev)
 
 ### Tools and Libraries
-![Visualisation](https://img.shields.io/badge/Visualisation-white?style=for-the-badge&LogoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FCAE1E?style=for-the-badge&LogoColor=white) ![seaborn](https://img.shields.io/badge/seaborn-8968CD?style=for-the-badge&LogoColor=white)
+Visualisation:
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-FCAE1E?style=for-the-badge&LogoColor=white)
+- ![seaborn](https://img.shields.io/badge/seaborn-8968CD?style=for-the-badge&LogoColor=white)
 
-![Data handling](https://img.shields.io/badge/Data%20Handling-white?style=for-the-badge&LogoColor=black) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+Data handling:
+- ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+- ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-![Machine Learning and Deep Learning](https://img.shields.io/badge/Machine%20Learning%20and%20Deep%20Learning-white?style=for-the-badge&LogoColor=black) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+Machine Learning and Deep Learning:
+- ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Operating Systems
 [![My Skills in System](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
