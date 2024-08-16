@@ -12,7 +12,7 @@
 - I have interest in information security analyst, artificial intelligence engineer and web development.
 - My personal website:
 
-[![website link](https://raw.githubusercontent.com/ks-fahad/fahad/main/README/portfolio_1.png)](https://www.linkedin.com/in/ks-fahad)
+[![website link](https://raw.githubusercontent.com/ks-fahad/fahad/main/README/portfolio_1.png)](https://ks-fahad.vercel.app/)
 
 ## 🛠 Skills
 
