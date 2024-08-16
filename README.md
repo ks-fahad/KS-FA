@@ -11,6 +11,8 @@
 ## 🛠 Skills
 
 ### Programming Language
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,c++,bash,mysql)](https://skillicons.dev)
+
 ![Python](https://img.shields.io/badge/Python-Advanced-1877F2?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Advanced-yellow?style=for-the-badge&logo=java&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
