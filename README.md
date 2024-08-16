@@ -1,4 +1,6 @@
-<h2 align='center'>👋 Hi, I'm MD. FAHAD HOSSION! </h2> 
+<p align='center'> <img src="https://raw.githubusercontent.com/ks-fahad/fahad/main/README/logo_1.png" width="100px"></p>
+
+<h2 align='center'>👋 Hi, I'm Md. Fahad Hossion! </h2> 
 
 <img src="https://komarev.com/ghpvc/?username=ks-fahad&label=Profile%20Views&color=1DBF73&style=for-the-badge" alt="ks-fahad" /> [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ks-fahad.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ks-fahad) [![Research_Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)]()
 [![Google_Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]() [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KSFahadSellf) [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ksfahad.self/)  [![Facebook Page](https://img.shields.io/badge/Facebook_page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61564227922898) [![YouTube](https://img.shields.io/badge/YouTube-E60023?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KSFahad) [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@ksfahad.self)
@@ -9,6 +11,7 @@
 - I have internship experience in frontend development.
 - I have interest in information security analyst, artificial intelligence engineer and web development.
 - My personal website:
+
 [![website link](https://raw.githubusercontent.com/ks-fahad/fahad/main/README/portfolio_1.png)](https://www.linkedin.com/in/ks-fahad)
 
 ## 🛠 Skills
