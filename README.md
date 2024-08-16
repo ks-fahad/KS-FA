@@ -13,31 +13,13 @@
 ### Programming Language
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,bash,mysql)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-Advanced-1877F2?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-yellow?style=for-the-badge&logo=java&logoColor=white)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Advanced-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Intermediate-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
 ### Web programming Language and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,nextjs,django)](https://skillicons.dev)
 
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Used-blue?style=for-the-badge&logo=java&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Used-blueviolet?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Used-yellow?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Used-purple?style=for-the-badge&logo=java&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Used-black?style=for-the-badge&logo=java&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Used-green?style=for-the-badge&logo=java&logoColor=white)
-
-### Tools
-- Visualisation
-  - matplotlib
-  - seaborn
-- Data handling
-  - Numpy
-  - Pandas
-  - OpenCV
-- Machine Learning and Deep Learning
+### Tools and Libraries
+- Visualisation: matplotlib, seaborn
+- Data handling: [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+- Machine Learning and Deep Learning: [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white),[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white), [![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white), [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
   - Scikit-learn
   - Keras
   - PyTorch
