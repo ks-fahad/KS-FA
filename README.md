@@ -30,7 +30,7 @@
 ![ML & DL](https://img.shields.io/badge/ml_&_dl_:-white?style=for-the-badge&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Operating Systems
-[![My Skills in System](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
+[![My Skills in System](https://skillicons.dev/icons?i=windows,linux,ubuntu,android,ios)](https://skillicons.dev)
 
 ### Document Creation
 - LaTex
